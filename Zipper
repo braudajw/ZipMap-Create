@@ -183,14 +183,13 @@
                                                                   
                                                                    
                                                                     
-                                                                    google.maps.event.addDomListener(window, 'load', initialize);
-                                                                    </script>
-                                                                     
-                                                                     </head>
+       google.maps.event.addDomListener(window, 'load', initialize);
+      </script>
+     </head>
                                                                       
-                                                                      <body>
-                                                                      <center><div id="googleMap" style="width:1000px;height:760px;"></div></center>
+   <body>
+  <center><div id="googleMap" style="width:1000px;height:760px;"></div></center>
                                                                        
-                                                                       </body>
-                                                                       </html>
+ </body>
+ </html>
                                                                 
